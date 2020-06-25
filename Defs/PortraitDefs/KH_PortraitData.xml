@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <Def Class="PortraitLoader.PortraitXmlLoader">
+    <defName>KH_PortraitData</defName>
+    <PortraitData>
+      <li>
+		<key>akame</key>
+		<value>PortraitData/Akame</value>
+      </li>
+      <li>
+		<key>aome</key>
+		<value>PortraitData/Aome</value>
+      </li>
+      <li>
+		<key>hana</key>
+		<value>PortraitData/Hana</value>
+      </li>
+      <li>
+		<key>kon</key>
+		<value>PortraitData/Kon</value>
+      </li>
+      <li>
+		<key>miko</key>
+		<value>PortraitData/Miko</value>
+      </li>
+      <li>
+		<key>siro</key>
+		<value>PortraitData/Siro</value>
+      </li>
+      <li>
+		<key>kuro</key>
+		<value>PortraitData/Kuro</value>
+      </li>
+    </PortraitData>
+  </Def>
+</Defs>
